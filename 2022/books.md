@@ -2,16 +2,27 @@
 # Books to Get
 
 - Leviathan Falls
-- The saints of salvation
-- Last Argument of Kings
+- The Hidden Palace
+- The Saints of Salvation
 - Artemis
+- Last Argument of Kings
 - Goblin Emperor
-- The hidden palace
-- The dark forest
+- The Dark Forest
 - Pandora's Star
 - Fallen Dragon
 
-Books to Read
+## Lower Priority
+
+- 5am Club
+- The Engines of God
+- The Cruel Stars
+- The Space Between Worlds
+- Conan Doyle for the Defense
+- Thursday Murder Club
+- Fortune Favors the Dead
+- Middlegame
+
+# Books to Read
 
 - Dune Frontier Collection
 
