@@ -6,4 +6,4 @@
 - [Bouldering Mat](https://alpkit.com/collections/bouldering-mats/products/mujo)
 
 - [Book Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/books.md)
-- [Films Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/films.md)
+- [Film Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/films.md)
