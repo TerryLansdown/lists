@@ -4,10 +4,8 @@
 - The Hidden Palace
 - The Saints of Salvation
 - Artemis
-- Last Argument of Kings
 - Goblin Emperor
-- The Dark Forest
-- Pandora's Star
+- Death's End
 - Fallen Dragon
 
 ## Lower Priority
@@ -23,6 +21,8 @@
 
 # Books to Read
 
+- The Dark Forest
+- Last Argument of Kings
 - Dune Frontier Collection
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
