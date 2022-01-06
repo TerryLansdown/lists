@@ -3,7 +3,6 @@
 - Leviathan Falls
 - The Hidden Palace
 - The Saints of Salvation
-- Artemis
 - Goblin Emperor
 - Death's End
 - Fallen Dragon
@@ -26,6 +25,7 @@
 # Books to Read
 
 - The Dark Forest
+- Artimis
 - Last Argument of Kings
 - Dune Frontier Collection
 

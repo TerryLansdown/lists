@@ -1,9 +1,13 @@
 # Films to Get
 
-- To be added
+- 
 
-# Films to Watch
+# Films/Movies to Watch
 
-- The Godfather, well what else!
+- The Godfather
 
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
+# TV to watch
+
+- Succession
+
+ [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
