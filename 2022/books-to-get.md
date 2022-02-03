@@ -2,8 +2,6 @@
 
 - Leviathan Falls
 - The Hidden Palace
-- The Saints of Salvation
-- Goblin Emperor
 - Death's End
 - Fallen Dragon
 - Piranesi
@@ -22,10 +20,9 @@
 - Fortune Favors the Dead
 - Middlegame
 
-# Books to Read
+# Currently Reading
 
-- Artimis
-- Last Argument of Kings
+- The Goblin Emperor 
 - Dune Frontier Collection
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
