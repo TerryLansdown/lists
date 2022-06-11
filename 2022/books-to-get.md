@@ -1,5 +1,7 @@
 # Books to Get
 
+?testing?
+
 - Leviathan Falls
 - The Hidden Palace
 - Death's End
@@ -38,6 +40,34 @@
 - Noir - Christopher Moore
 
 ## Lower Priority
+
+- The Galaxy and the Ground Within by Becky Chambers
+- A Master of Djinn by P. Djèlí Clark
+- The Unbroken by C.L. Clark
+- The Thursday Murder Club
+- Amongst Our Weapons
+- Under Lock & Skeleton Key
+- Winter’s Orbit
+- Rosebud
+- Your Eyes, My Beacon
+- You Perfect, Broken Thing
+- Jade City (The Green Bone Saga series)
+- Minor Mage
+- The Wolf and the Woodsman
+- How to Rule an Empire and Get Away with It- The Galaxy and the Ground Within by Becky Chambers
+- A Master of Djinn by P. Djèlí Clark
+- The Unbroken by C.L. Clark
+- The Thursday Murder Club
+- Amongst Our Weapons
+- Under Lock & Skeleton Key
+- Winter’s Orbit
+- Rosebud
+- Your Eyes, My Beacon
+- You Perfect, Broken Thing
+- Jade City (The Green Bone Saga series)
+- Minor Mage
+- The Wolf and the Woodsman
+- How to Rule an Empire and Get Away with It
 
 - Spinning Silver - Naomi Novik
 - How to Live Safely in a Science Fictional Universe - Charles Yu
@@ -78,6 +108,6 @@
 
 # Currently Reading
 
-- The Psychopath Test
+- Equal Rites
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
