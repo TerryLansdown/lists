@@ -1,7 +1,5 @@
 # Books to Get
 
-?testing?
-
 - Leviathan Falls
 - The Hidden Palace
 - Death's End
