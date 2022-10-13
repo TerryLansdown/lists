@@ -1,4 +1,5 @@
-# Books to Get
+# Books to Get  
+(Kindle Versions Only Please)
 
 - The Hidden Palace
 - Death's End
