@@ -1,4 +1,4 @@
-# Books to Get  
+# Books to Get
 (Kindle Versions Only Please)
 
 - The Hidden Palace
@@ -47,23 +47,18 @@
 - Cloud Cuckoo Land by Anthony Doerr
 - Among Others by Jo Walton
 - Borderline by Mishell Baker
-- The Hitchhiker’s Guide to the Galaxy Omnibus by Douglas Adams
 - Marooned in Realtime by Vernor Vinge
-- Slaughterhouse-Five by Kurt Vonnegut
 - Tombs of Atuan by Ursula K. LeGuin
 - The Spy Who Came In From the Cold by John Le Carre
 - The Haunting of Hill House by Shirley Jackson
 - Every Heart a Doorway by Seanan Maguire
 - The Last Graduate by Naomi Novik
-- Twilight by Stephenie Meyer
 - The Priory of the Orange Tree by Samantha Shannon
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
 - Galaxy and the Ground Within by Becky Chambers
-- A Desolation Called Peace by Arkady Martine
 - The Galaxy and the Ground Within by Becky Chambers
 - Elder Race by Adrian Tchaikovsky
-- City of Blades by Robert Jackson Bennett
 - The Golden Enclaves by Naomi Novik
 - The Galaxy and the Ground Within by Becky Chambers
 - A Big Ship at the Edge of the Universe by Alex White
@@ -74,26 +69,11 @@
 - The Path of Water by Emma Törzs
 - Two Hands, Wrapped in Gold by S.B. Divya
 - The Portal Keeper by Lavie Tidhar
-- The Golden Enclaves by Naomi Novik
 - Mickey7 by Edward Ashton
 - Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
 - The Cruel Stars by John Birmingham
-- Moonraker by Ian Fleming
 - The Man Who Died Twice by Richard Osman
 - The Galaxy and the Ground Within by Becky Chambers
-- A Master of Djinn by P. Djèlí Clark
-- The Unbroken by C.L. Clark
-- The Thursday Murder Club
-- Amongst Our Weapons
-- Under Lock & Skeleton Key
-- Winter’s Orbit
-- Rosebud
-- Your Eyes, My Beacon
-- You Perfect, Broken Thing
-- Jade City (The Green Bone Saga series)
-- Minor Mage
-- The Wolf and the Woodsman
-- How to Rule an Empire and Get Away with It- The Galaxy and the Ground Within by Becky Chambers
 - A Master of Djinn by P. Djèlí Clark
 - The Unbroken by C.L. Clark
 - The Thursday Murder Club
@@ -138,7 +118,6 @@
 - The Cruel Stars
 - The Space Between Worlds
 - Conan Doyle for the Defense
-- Thursday Murder Club
 - Fortune Favors the Dead
 - Middlegame
 
