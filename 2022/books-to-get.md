@@ -1,13 +1,14 @@
 # Books to Get
 
-- Leviathan Falls
 - The Hidden Palace
 - Death's End
 - Fallen Dragon
 - The Galaxy and the Ground Within
 - Nightwatch on the Hinterlands
 - Witness for the Dead
-
+- Project Hail Mary
+- A Master of Djinn
+- She Who Became the Sun
 - The Dream of Perpetual Motion by Dexter Palmer
 - The Rook - Daniel O’Malley
 - This Is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
@@ -39,6 +40,45 @@
 
 ## Lower Priority
 
+- Lock In by John Scalzi
+- Legends and Lattes by Travis Baldree
+- A Psalm for the Wild-Built by Becky Chambers
+- Cloud Cuckoo Land by Anthony Doerr
+- Among Others by Jo Walton
+- Borderline by Mishell Baker
+- The Hitchhiker’s Guide to the Galaxy Omnibus by Douglas Adams
+- Marooned in Realtime by Vernor Vinge
+- Slaughterhouse-Five by Kurt Vonnegut
+- Tombs of Atuan by Ursula K. LeGuin
+- The Spy Who Came In From the Cold by John Le Carre
+- The Haunting of Hill House by Shirley Jackson
+- Every Heart a Doorway by Seanan Maguire
+- The Last Graduate by Naomi Novik
+- Twilight by Stephenie Meyer
+- The Priory of the Orange Tree by Samantha Shannon
+- Country by Michael Hughes
+- The Nova Incident by Dan Moren
+- Galaxy and the Ground Within by Becky Chambers
+- A Desolation Called Peace by Arkady Martine
+- The Galaxy and the Ground Within by Becky Chambers
+- Elder Race by Adrian Tchaikovsky
+- City of Blades by Robert Jackson Bennett
+- The Golden Enclaves by Naomi Novik
+- The Galaxy and the Ground Within by Becky Chambers
+- A Big Ship at the Edge of the Universe by Alex White
+- Terminal Peace by Jim C. Hines
+- Three Little Wishes by Paul Cornell, Steve Yeowell, Pippa Bowland & Simon Bowland
+- Bramblewilde by Jordan Taylor
+- The Night Dance by Leah Cypess
+- The Path of Water by Emma Törzs
+- Two Hands, Wrapped in Gold by S.B. Divya
+- The Portal Keeper by Lavie Tidhar
+- The Golden Enclaves by Naomi Novik
+- Mickey7 by Edward Ashton
+- Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
+- The Cruel Stars by John Birmingham
+- Moonraker by Ian Fleming
+- The Man Who Died Twice by Richard Osman
 - The Galaxy and the Ground Within by Becky Chambers
 - A Master of Djinn by P. Djèlí Clark
 - The Unbroken by C.L. Clark
@@ -66,10 +106,8 @@
 - Minor Mage
 - The Wolf and the Woodsman
 - How to Rule an Empire and Get Away with It
-
 - Spinning Silver - Naomi Novik
 - How to Live Safely in a Science Fictional Universe - Charles Yu
-
 - Exhalation: Stories - Ted Chiang
 - Ninefox Gambit - Yoon Ha Lee
 - Barsk - Lawrence M. Schoen
@@ -94,7 +132,6 @@
 - Alif the Unseen - G Willow Wilson
 - The Ballad of Black Tom - Victor LaValle
 - The Light Brigade - Kameron Hurley
-
 - 5am Club
 - The Engines of God
 - The Cruel Stars
@@ -106,6 +143,6 @@
 
 # Currently Reading
 
-- Equal Rites
+- The Silmarillion
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
