@@ -10,10 +10,6 @@
 - Project Hail Mary
 - A Master of Djinn
 - She Who Became the Sun
-<<<<<<< master
-=======
-- The Dream of Perpetual Motion by Dexter Palmer
->>>>>>> origin/master
 - The Rook - Daniel O’Malley
 - This Is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
@@ -51,12 +47,7 @@
 - Among Others by Jo Walton
 - Borderline by Mishell Baker
 - Marooned in Realtime by Vernor Vinge
-<<<<<<< master
 - Tombs of Atuan by Ursula K. LeGui
-=======
-- Tombs of Atuan by Ursula K. LeGuin
-- The Spy Who Came In From the Cold by John Le Carre
->>>>>>> origin/master
 - The Haunting of Hill House by Shirley Jackson
 - Every Heart a Doorway by Seanan Maguire
 - The Last Graduate by Naomi Novik
@@ -64,7 +55,6 @@
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
 - Galaxy and the Ground Within by Becky Chambers
-<<<<<<< master
 - The Galaxy and the Ground Within by Becky Chambers
 - Elder Race by Adrian Tchaikovsky
 - The Golden Enclaves by Naomi Novik
@@ -81,26 +71,6 @@
 - Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
 - The Cruel Stars by John Birmingham
 - The Man Who Died Twice by Richard Osman
-=======
-- The Galaxy and the Ground Within by Becky Chambers
-- Elder Race by Adrian Tchaikovsky
-- The Golden Enclaves by Naomi Novik
-- The Galaxy and the Ground Within by Becky Chambers
-- A Big Ship at the Edge of the Universe by Alex White
-- Terminal Peace by Jim C. Hines
-- Three Little Wishes by Paul Cornell, Steve Yeowell, Pippa Bowland & Simon Bowland
-- Bramblewilde by Jordan Taylor
-- The Night Dance by Leah Cypess
-- The Path of Water by Emma Törzs
-- Two Hands, Wrapped in Gold by S.B. Divya
-- The Portal Keeper by Lavie Tidhar
-- Mickey7 by Edward Ashton
-- Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
-- The Cruel Stars by John Birmingham
-- The Man Who Died Twice by Richard Osman
-- The Galaxy and the Ground Within by Becky Chambers
-- A Master of Djinn by P. Djèlí Clark
->>>>>>> origin/master
 - The Unbroken by C.L. Clark
 - The Thursday Murder Club
 - Amongst Our Weapons
@@ -149,11 +119,7 @@
 
 # Currently Reading
 
-<<<<<<< master
 - A Deadly Education
 - The Dream of Perpetual Motion by Dexter Palmer
-=======
-- The Silmarillion
->>>>>>> origin/master
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
