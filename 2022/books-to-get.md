@@ -3,14 +3,12 @@
 
 - The Hidden Palace
 - Death's End
-- The Galaxy and the Ground Within
 - Nightwatch on the Hinterlands
 - Witness for the Dead
 - Project Hail Mary
 - A Master of Djinn
 - She Who Became the Sun
-- The Rook - Daniel O’Malley
-- This Is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
+- This is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
 - The Long Way to a Small, Angry Planet - Becky Chambers
 - A Closed and Common Orbit - Becky Chambers
@@ -54,10 +52,8 @@
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
 - Galaxy and the Ground Within by Becky Chambers
-- The Galaxy and the Ground Within by Becky Chambers
 - Elder Race by Adrian Tchaikovsky
 - The Golden Enclaves by Naomi Novik
-- The Galaxy and the Ground Within by Becky Chambers
 - A Big Ship at the Edge of the Universe by Alex White
 - Terminal Peace by Jim C. Hines
 - Three Little Wishes by Paul Cornell, Steve Yeowell, Pippa Bowland & Simon Bowland
