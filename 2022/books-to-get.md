@@ -3,7 +3,6 @@
 
 - The Hidden Palace
 - Death's End
-- Fallen Dragon
 - The Galaxy and the Ground Within
 - Nightwatch on the Hinterlands
 - Witness for the Dead
