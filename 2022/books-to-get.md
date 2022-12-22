@@ -1,6 +1,14 @@
 # Books to Get
 (Kindle Versions Only Please)
 
+## Currently Reading
+
+- The Rook
+- The Dream of Perpetual Motion by Dexter Palmer
+
+[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
+
+## Wanted...
 - The Hidden Palace
 - Death's End
 - Nightwatch on the Hinterlands
@@ -111,10 +119,3 @@
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
-
-# Currently Reading
-
-- A Deadly Education
-- The Dream of Perpetual Motion by Dexter Palmer
-
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
