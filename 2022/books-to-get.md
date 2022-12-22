@@ -1,9 +1,8 @@
 # Books to Get
-(Kindle Versions Only Please)
+(Kindle versions only please)
 
 ## Currently Reading
 
-- The Rook
 - The Dream of Perpetual Motion by Dexter Palmer
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
