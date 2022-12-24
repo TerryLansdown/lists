@@ -15,7 +15,6 @@
 - She Who Became the Sun
 - This is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
-- The Long Way to a Small, Angry Planet - Becky Chambers
 - A Closed and Common Orbit - Becky Chambers
 - The Human Division - John Scalzi
 - My Real Children - Jo Walton
