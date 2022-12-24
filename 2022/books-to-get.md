@@ -1,18 +1,19 @@
 # Books to Get
-(Kindle Versions Only Please)
+(Kindle versions only please)
 
+## Currently Reading
+
+- The Dream of Perpetual Motion by Dexter Palmer
+
+[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
+
+## Wanted...
 - The Hidden Palace
 - Death's End
-- Fallen Dragon
-- The Galaxy and the Ground Within
 - Nightwatch on the Hinterlands
 - Witness for the Dead
-- Project Hail Mary
-- A Master of Djinn
 - She Who Became the Sun
-- The Dream of Perpetual Motion by Dexter Palmer
-- The Rook - Daniel O’Malley
-- This Is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
+- This is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
 - The Long Way to a Small, Angry Planet - Becky Chambers
 - A Closed and Common Orbit - Becky Chambers
@@ -48,8 +49,7 @@
 - Among Others by Jo Walton
 - Borderline by Mishell Baker
 - Marooned in Realtime by Vernor Vinge
-- Tombs of Atuan by Ursula K. LeGuin
-- The Spy Who Came In From the Cold by John Le Carre
+- Tombs of Atuan by Ursula K. LeGui
 - The Haunting of Hill House by Shirley Jackson
 - Every Heart a Doorway by Seanan Maguire
 - The Last Graduate by Naomi Novik
@@ -57,10 +57,8 @@
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
 - Galaxy and the Ground Within by Becky Chambers
-- The Galaxy and the Ground Within by Becky Chambers
 - Elder Race by Adrian Tchaikovsky
 - The Golden Enclaves by Naomi Novik
-- The Galaxy and the Ground Within by Becky Chambers
 - A Big Ship at the Edge of the Universe by Alex White
 - Terminal Peace by Jim C. Hines
 - Three Little Wishes by Paul Cornell, Steve Yeowell, Pippa Bowland & Simon Bowland
@@ -73,10 +71,7 @@
 - Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
 - The Cruel Stars by John Birmingham
 - The Man Who Died Twice by Richard Osman
-- The Galaxy and the Ground Within by Becky Chambers
-- A Master of Djinn by P. Djèlí Clark
 - The Unbroken by C.L. Clark
-- The Thursday Murder Club
 - Amongst Our Weapons
 - Under Lock & Skeleton Key
 - Winter’s Orbit
@@ -120,9 +115,3 @@
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
-
-# Currently Reading
-
-- The Silmarillion
-
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
