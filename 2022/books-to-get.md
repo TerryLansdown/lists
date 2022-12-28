@@ -89,7 +89,6 @@
 - Three Parts Dead - Max Gladstone
 - Penric’s Demon - Lois McMaster Bujold
 - The Ocean at the End of the Lane - Neil Gaiman
-- The 7 1/2 Deaths of Evelyn Hardcastle - Stuart Turton
 - Foundryside - Robert Jackson Bennett
 - The Galaxy and the Ground Within - Becky Chambers
 - The Strange Case of the Alchemist’s Daughter - Theodora Goss
