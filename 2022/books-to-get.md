@@ -4,21 +4,19 @@
 ## Currently Reading
 
 - The Dream of Perpetual Motion by Dexter Palmer
+- Murder Before Evensong
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
 
 ## Wanted...
 - The Hidden Palace
 - Death's End
-- Nightwatch on the Hinterlands
-- Witness for the Dead
+- The Golden Enclaves
 - She Who Became the Sun
-- This is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
 - A Closed and Common Orbit - Becky Chambers
 - The Human Division - John Scalzi
 - My Real Children - Jo Walton
-- The Night Circus - Erin Morgenstein
 - 11/22/63 - Stephen King
 - The Calculating Stars - Mary Robinette Kowal
 - The Haunting of Tram Car 015 - P. Djeli Clark
@@ -27,7 +25,6 @@
 - The Fifth Season - N.K. Jemisin
 - Borderline - Mishell Baker
 - The Quantum Thief - Hannu Rajaniemi
-- Sixteen Ways to Defend a Walled City - KJ Parker
 - Captain Vorpatril’s Alliance - Lois McMaster Bujold
 - Strange Practice - Vivian Shaw
 - Libriomancer - Jim C. Hines
@@ -38,6 +35,7 @@
 - Hollow Kingdom - Kyra Jane Buxton
 - Delia’s Shadow - Jamie Lee Moyer
 - Noir - Christopher Moore
+- Nightwatch on the Hinterlands
 
 ## Lower Priority
 
@@ -55,8 +53,6 @@
 - The Priory of the Orange Tree by Samantha Shannon
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
-- Galaxy and the Ground Within by Becky Chambers
-- Elder Race by Adrian Tchaikovsky
 - The Golden Enclaves by Naomi Novik
 - A Big Ship at the Edge of the Universe by Alex White
 - Terminal Peace by Jim C. Hines
@@ -89,7 +85,6 @@
 - Three Parts Dead - Max Gladstone
 - Penric’s Demon - Lois McMaster Bujold
 - The Ocean at the End of the Lane - Neil Gaiman
-- The 7 1/2 Deaths of Evelyn Hardcastle - Stuart Turton
 - Foundryside - Robert Jackson Bennett
 - The Galaxy and the Ground Within - Becky Chambers
 - The Strange Case of the Alchemist’s Daughter - Theodora Goss
@@ -114,3 +109,5 @@
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
+- Differently Morphous
+- Children of memory
