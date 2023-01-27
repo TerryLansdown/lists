@@ -3,14 +3,13 @@
 
 ## Currently Reading
 
-- The Dream of Perpetual Motion by Dexter Palmer
-- Murder Before Evensong
+- The Dream of Perpetual Motion
+- Long way to a small, angry planet
 
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
+[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
 - The Hidden Palace
-- Death's End
 - The Golden Enclaves
 - She Who Became the Sun
 - Among Others - Jo Walton
