@@ -10,7 +10,7 @@
 
 ## Wanted...
 - The Hidden Palace
-- The Golden Enclaves
+- The Golden Enclaves 
 - She Who Became the Sun
 - Among Others - Jo Walton
 - A Closed and Common Orbit - Becky Chambers
