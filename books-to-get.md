@@ -3,8 +3,7 @@
 
 ## Currently Reading
 
-- The Dream of Perpetual Motion
-- Long way to a small, angry planet
+- The last graduate
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
