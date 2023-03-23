@@ -3,13 +3,18 @@
 
 ## Currently Reading
 
-- The last graduate
+- Colony One: A Space Colonization Adventure
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
+- Differently Morphous
+- Children of memory
 - The Hidden Palace
-- The Golden Enclaves 
+- The Golden Enclaves
+- Delta-V
+- Critical Mass
+- Slow horses
 - She Who Became the Sun
 - Among Others - Jo Walton
 - A Closed and Common Orbit - Becky Chambers
@@ -17,8 +22,6 @@
 - My Real Children - Jo Walton
 - 11/22/63 - Stephen King
 - The Calculating Stars - Mary Robinette Kowal
-- The Haunting of Tram Car 015 - P. Djeli Clark
-- Luna: New Moon - Ian McDonald
 - The Magician’s Land - Lev Grossman
 - The Fifth Season - N.K. Jemisin
 - Borderline - Mishell Baker
@@ -98,14 +101,9 @@
 - Six Wakes - Mur Lafferty
 - Trail of Lightning - Rebecca Roanhorse
 - Alif the Unseen - G Willow Wilson
-- The Ballad of Black Tom - Victor LaValle
 - The Light Brigade - Kameron Hurley
 - 5am Club
-- The Engines of God
 - The Cruel Stars
-- The Space Between Worlds
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
-- Differently Morphous
-- Children of memory
