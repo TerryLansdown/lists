@@ -1,6 +1,6 @@
 # General Gift Ideas
 
-- [Books](https://github.com/TerryLansdown/lists/blob/master/2022/books-to-get.md) (Kindle versions only please)
+- [Books](https://github.com/TerryLansdown/lists/blob/master/books-to-get.md) (Kindle versions only please)
 
 - [Amazon Wishlist](https://www.amazon.co.uk/hz/wishlist/ls/amYEMNIYY7ALL8?ref_=wl_share)  (Only Kindle Versions of Books Please)
 - [Bouldering Mat](https://alpkit.com/products/mujo-bouldering-mat)

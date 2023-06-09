@@ -3,31 +3,29 @@
 
 ## Currently Reading
 
-- The Dream of Perpetual Motion by Dexter Palmer
+- Colony One: A Space Colonization Adventure
 
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/2022/general-gift-ideas.md)
+[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
+- Differently Morphous
+- Children of memory
 - The Hidden Palace
-- Death's End
-- Nightwatch on the Hinterlands
-- Witness for the Dead
+- The Golden Enclaves
+- Delta-V
+- Critical Mass
+- Slow horses
 - She Who Became the Sun
-- This is How You Lose the Time War - Amal El-Mohtar & Max Gladstone
 - Among Others - Jo Walton
 - A Closed and Common Orbit - Becky Chambers
 - The Human Division - John Scalzi
 - My Real Children - Jo Walton
-- The Night Circus - Erin Morgenstein
 - 11/22/63 - Stephen King
 - The Calculating Stars - Mary Robinette Kowal
-- The Haunting of Tram Car 015 - P. Djeli Clark
-- Luna: New Moon - Ian McDonald
 - The Magician’s Land - Lev Grossman
 - The Fifth Season - N.K. Jemisin
 - Borderline - Mishell Baker
 - The Quantum Thief - Hannu Rajaniemi
-- Sixteen Ways to Defend a Walled City - KJ Parker
 - Captain Vorpatril’s Alliance - Lois McMaster Bujold
 - Strange Practice - Vivian Shaw
 - Libriomancer - Jim C. Hines
@@ -38,6 +36,7 @@
 - Hollow Kingdom - Kyra Jane Buxton
 - Delia’s Shadow - Jamie Lee Moyer
 - Noir - Christopher Moore
+- Nightwatch on the Hinterlands
 
 ## Lower Priority
 
@@ -55,8 +54,6 @@
 - The Priory of the Orange Tree by Samantha Shannon
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
-- Galaxy and the Ground Within by Becky Chambers
-- Elder Race by Adrian Tchaikovsky
 - The Golden Enclaves by Naomi Novik
 - A Big Ship at the Edge of the Universe by Alex White
 - Terminal Peace by Jim C. Hines
@@ -104,13 +101,9 @@
 - Six Wakes - Mur Lafferty
 - Trail of Lightning - Rebecca Roanhorse
 - Alif the Unseen - G Willow Wilson
-- The Ballad of Black Tom - Victor LaValle
 - The Light Brigade - Kameron Hurley
 - 5am Club
-- The Engines of God
 - The Cruel Stars
-- The Space Between Worlds
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
-- [ ] Differently Morphous
