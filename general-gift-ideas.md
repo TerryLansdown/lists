@@ -8,3 +8,4 @@
 - [Edible plants book](https://shop.eatweeds.co.uk/products/edible-and-medicinal-wild-plants-of-britain-and-ireland?utm_source=website&utm_medium=organic&utm_campaign=Edible+and+Medicinal+Wild+Plants&utm_content=embed&utm_term=v-A)
 - [MIYOO Mini Plus in Grey](https://a.aliexpress.com/_Exf7Fw5)
 - [Wild Country Friends](https://rockrun.com/products/wild-country-friend-1-2-3-set)
+- [Edible plants book](https://shop.eatweeds.co.uk/products/edible-and-medicinal-wild-plants-of-britain-and-ireland?utm_source=website&utm_medium=organic&utm_campaign=Edible+and+Medicinal+Wild+Plants&utm_content=embed&utm_term=v-A)
