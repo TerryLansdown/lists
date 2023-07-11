@@ -3,27 +3,22 @@
 
 ## Currently Reading
 
-- Colony One: A Space Colonization Adventure
+- The Moneyless Manifesto 
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
-- Differently Morphous
+- Existentially Challenged
 - Children of memory
-- The Hidden Palace
-- The Golden Enclaves
 - Delta-V
 - Critical Mass
 - Slow horses
 - She Who Became the Sun
 - Among Others - Jo Walton
-- A Closed and Common Orbit - Becky Chambers
 - The Human Division - John Scalzi
 - My Real Children - Jo Walton
-- 11/22/63 - Stephen King
 - The Calculating Stars - Mary Robinette Kowal
 - The Magician’s Land - Lev Grossman
-- The Fifth Season - N.K. Jemisin
 - Borderline - Mishell Baker
 - The Quantum Thief - Hannu Rajaniemi
 - Captain Vorpatril’s Alliance - Lois McMaster Bujold
@@ -50,11 +45,9 @@
 - Tombs of Atuan by Ursula K. LeGui
 - The Haunting of Hill House by Shirley Jackson
 - Every Heart a Doorway by Seanan Maguire
-- The Last Graduate by Naomi Novik
 - The Priory of the Orange Tree by Samantha Shannon
 - Country by Michael Hughes
 - The Nova Incident by Dan Moren
-- The Golden Enclaves by Naomi Novik
 - A Big Ship at the Edge of the Universe by Alex White
 - Terminal Peace by Jim C. Hines
 - Three Little Wishes by Paul Cornell, Steve Yeowell, Pippa Bowland & Simon Bowland
@@ -66,7 +59,6 @@
 - Mickey7 by Edward Ashton
 - Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
 - The Cruel Stars by John Birmingham
-- The Man Who Died Twice by Richard Osman
 - The Unbroken by C.L. Clark
 - Amongst Our Weapons
 - Under Lock & Skeleton Key
