@@ -3,16 +3,21 @@
 
 ## Currently Reading
 
-- The Moneyless Manifesto 
+- Leviathan Falls
+- The Moscow Brief: A Travis Bishop Thriller
+- False Value 
 
 [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
+
 - Existentially Challenged
-- Children of memory
-- Delta-V
-- Critical Mass
-- Slow horses
+- Children of memory [comment]: # (on Spotify)
+- Levitation falls [comment]: # (on Spotify)
+- Delta-V [comment]: # (on Spotify)
+- Critical Mass [comment]: # (on Spotify)
+- Slow horses [comment]: # (on Spotify)
+- London Field - Amis
 - She Who Became the Sun
 - Among Others - Jo Walton
 - The Human Division - John Scalzi
@@ -32,6 +37,12 @@
 - Delia’s Shadow - Jamie Lee Moyer
 - Noir - Christopher Moore
 - Nightwatch on the Hinterlands
+- The Dispossessed: An Ambiguous Utopia - Ursula K. Le Guin
+- Legends & Lattes  - Travis Baldree
+- Spear - Nicola Griffith
+- Babel - R F Kuang
+- The Mountain in the sea - Ray Nayler
+- Nettle & Bone - T Kingfisher
 
 ## Lower Priority
 
