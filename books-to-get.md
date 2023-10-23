@@ -12,13 +12,13 @@
 ## Wanted...
 
 - Existentially Challenged
-- Children of memory [comment]: # (on Spotify)
-- Levitation falls [comment]: # (on Spotify)
-- Delta-V [comment]: # (on Spotify)
-- Critical Mass [comment]: # (on Spotify)
-- Slow horses [comment]: # (on Spotify)
-- London Field - Amis
-- She Who Became the Sun
+- Children of memory <!-- on Spotify -->
+- Levitation falls <!-- on Spotify -->
+- Delta-V <!-- on Spotify -->
+- Critical Mass <!-- on Spotify -->
+- Slow horses <!-- on Spotify -->
+- London Field - Amis <!-- on Spotify -->
+- She Who Became the Sun <!-- on Spotify -->
 - Among Others - Jo Walton
 - The Human Division - John Scalzi
 - My Real Children - Jo Walton
