@@ -16,3 +16,4 @@
 - [Mountain Rock book](https://www.needlesports.com/Catalogue/Books-Media/Guidebooks/Scotland/Mountain-Rock-COR-G008)
 - [Snow and ice book](https://www.needlesports.com/Catalogue/Books-Media/Guidebooks/Scotland/Snow-Ice-COR-CG011)
 - [Bouldering bucket](https://www.decathlon.co.uk/p/boulder-chalk-bag-bigblocker-stopchalk-size-xxl-grey/_/R-p-194763?mc=8495291)
+- [winter harness - Large size](https://www.alpinetrek.co.uk/blue-ice-choucas-harness-climbing-harness/)
