@@ -1,19 +1,18 @@
+
 # Books to Get
+
 (Kindle versions only please)
 
 ## Currently Reading
 
-- Leviathan Falls
-- The Moscow Brief: A Travis Bishop Thriller
-- False Value 
+- My Murder - Katie Williams
+- Unruly
 
-[Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
+Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
 
-- Existentially Challenged
-- Children of memory <!-- on Spotify -->
-- Levitation falls <!-- on Spotify -->
+- The Left Hand of Darkness - Ursula K. LeGuin
 - Delta-V <!-- on Spotify -->
 - Critical Mass <!-- on Spotify -->
 - Slow horses <!-- on Spotify -->
@@ -21,11 +20,11 @@
 - She Who Became the Sun <!-- on Spotify -->
 - Among Others - Jo Walton
 - The Human Division - John Scalzi
+- Fortune Favors the Dead (Pentecost and Parker, #1) - Stephen Spotswood
 - My Real Children - Jo Walton
 - The Calculating Stars - Mary Robinette Kowal
 - The Magician’s Land - Lev Grossman
 - Borderline - Mishell Baker
-- The Quantum Thief - Hannu Rajaniemi
 - Captain Vorpatril’s Alliance - Lois McMaster Bujold
 - Strange Practice - Vivian Shaw
 - Libriomancer - Jim C. Hines
@@ -41,13 +40,12 @@
 - Legends & Lattes  - Travis Baldree
 - Spear - Nicola Griffith
 - Babel - R F Kuang
-- The Mountain in the sea - Ray Nayler
 - Nettle & Bone - T Kingfisher
+- Existentially Challenged
 
 ## Lower Priority
 
 - Lock In by John Scalzi
-- Legends and Lattes by Travis Baldree
 - A Psalm for the Wild-Built by Becky Chambers
 - Cloud Cuckoo Land by Anthony Doerr
 - Among Others by Jo Walton
@@ -68,7 +66,6 @@
 - Two Hands, Wrapped in Gold by S.B. Divya
 - The Portal Keeper by Lavie Tidhar
 - Mickey7 by Edward Ashton
-- Shards of Earth & Eyes of the Void by Adrian Tchaikovsky
 - The Cruel Stars by John Birmingham
 - The Unbroken by C.L. Clark
 - Amongst Our Weapons
@@ -87,10 +84,8 @@
 - Ninefox Gambit - Yoon Ha Lee
 - Barsk - Lawrence M. Schoen
 - Three Parts Dead - Max Gladstone
-- Penric’s Demon - Lois McMaster Bujold
 - The Ocean at the End of the Lane - Neil Gaiman
 - Foundryside - Robert Jackson Bennett
-- The Galaxy and the Ground Within - Becky Chambers
 - The Strange Case of the Alchemist’s Daughter - Theodora Goss
 - A Psalm for the Wild-Built - Becky Chambers (2020s)
 - The Ghost Bride - Yangsze Choo (also the Netflix series)
