@@ -3,6 +3,8 @@
 - [Books](https://github.com/TerryLansdown/lists/blob/master/books-to-get.md) (Kindle versions only if possible please)
 
 - [Amazon Wishlist](https://www.amazon.co.uk/hz/wishlist/ls/YEMNIYY7ALL8) (Kindle versions of books only please)
+- [Kampa ME0531 0.8 Litre Squash Collapsible Electric Kettle](https://amzn.eu/d/03tGmq20)
+- [Toaster](https://amzn.eu/d/06Jnzm8M)
 - [Bouldering Mat](https://alpkit.com/products/mujo-bouldering-mat)
 - [Wild Country Friends](https://rockrun.com/products/wild-country-friend-1-2-3-set)
 - [Clip Stick](https://www.tiso.com/eamga2ti0296/beta-climbing-betastick-evo-s-unisex-no-colour-eamga2ti0296/00126294/)
