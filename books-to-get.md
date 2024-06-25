@@ -1,4 +1,3 @@
-
 # Books to Get
 
 (Kindle versions only please)
@@ -105,3 +104,4 @@ Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob
 - Conan Doyle for the Defense
 - Fortune Favors the Dead
 - Middlegame
+- Das Kapital
