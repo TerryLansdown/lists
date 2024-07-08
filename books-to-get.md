@@ -4,13 +4,18 @@
 
 ## Currently Reading
 
-- My Murder - Katie Williams
-- Unruly
+- Service Model
+- Quantum Thief
 
 Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
 
+- How to rule an empire and get away with it
+- Saevus Corax capes the castle
+- The Sparrow
+- The windup girl
+- The dervish house
 - The Left Hand of Darkness - Ursula K. LeGuin
 - Delta-V <!-- on Spotify -->
 - Critical Mass <!-- on Spotify -->
