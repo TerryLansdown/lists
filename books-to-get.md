@@ -3,16 +3,14 @@
 (Kindle versions only please)
 
 ## Currently Reading
-
-- Service Model
-- Quantum Thief
+- How the world works
 
 Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
 
-- How to rule an empire and get away with it
-- Saevus Corax capes the castle
+- Alien Clay
+- Saevus Corax captures the castle
 - The Sparrow
 - The windup girl
 - The dervish house
