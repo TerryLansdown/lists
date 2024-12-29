@@ -3,13 +3,15 @@
 (Kindle versions only please)
 
 ## Currently Reading
-- How the world works
+- London Fields - Martin Amis
+- The Dispossessed -  Ursula K. LeGuin
+- Player of Games - Iain Banks
 
 Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob/master/general-gift-ideas.md)
 
 ## Wanted...
 
-- Alien Clay
+- Ultra-Processed People - Chris Van Tulleken
 - Saevus Corax captures the castle
 - The Sparrow
 - The windup girl
@@ -44,6 +46,11 @@ Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob
 - Babel - R F Kuang
 - Nettle & Bone - T Kingfisher
 - Existentially Challenged
+- Adventures of Amina al-Sirafi
+- The Guards by Ken Bruen
+- The Worms that Ate the Universe by Megan Chee
+- Mélusine by Katherine Addison/Sarah Monette
+ - Folklore, Myths, and Legends of Britain - Russel Ash et al.
 
 ## Lower Priority
 
@@ -79,7 +86,6 @@ Back to [Back to General Gift Ideas](https://github.com/TerryLansdown/lists/blob
 - Jade City (The Green Bone Saga series)
 - Minor Mage
 - The Wolf and the Woodsman
-- How to Rule an Empire and Get Away with It
 - Spinning Silver - Naomi Novik
 - How to Live Safely in a Science Fictional Universe - Charles Yu
 - Exhalation: Stories - Ted Chiang
